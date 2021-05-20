@@ -8,3 +8,4 @@ I know:
 1. javascript
 1. rept.it
 1. chalk
+1. vscode
